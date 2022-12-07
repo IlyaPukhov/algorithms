@@ -1,4 +1,4 @@
-package com.ilyap.tasks;
+package com.ilyap.fibonacci;
 
 import java.util.Scanner;
 
